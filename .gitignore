@@ -1,0 +1,45 @@
+# Compiled object files
+*.o
+
+# Compiled static libraries
+*.a
+
+# Executable binaries
+*.elf
+*.bin
+
+# Build output directories
+/build/
+
+# IDE-specific files and directories
+.vscode/
+.project
+.cproject
+.settings/
+
+# System-generated files
+.DS_Store
+
+# Configuration files with sensitive information
+sdkconfig
+sdkconfig.old
+
+# Logs and debug output
+*.log
+*.txt
+
+# Backup files
+*~
+*.bak
+
+# User-specific files
+/credentials/
+/secrets/
+
+# PlatformIO specific files
+/.pio/
+/.pioenvs/
+
+# Custom directories and files specific to your project
+# Add them here as needed
+
